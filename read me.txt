@@ -1,0 +1,4 @@
+This is my Programming Funadamentals coursework submission. 
+The program uses a makefile to compile the elements and creates an object file library as well 
+as an executable test file which checks what parts of the program run correctly. The makefile
+compiles via the command prompt command "namke makefile" on VS Studio 13.
